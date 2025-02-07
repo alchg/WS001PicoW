@@ -8,6 +8,7 @@ RaspberryPiPicoW
 
 # 配線  
 |GPIO|ePaper|note|
+|:----|:----|:----|
 |17|CS|CSn|
 |18|SCLK|SCK|
 |19|SDI|TX|
